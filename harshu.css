@@ -1,0 +1,13 @@
+.up{
+    color: red;
+    border-bottom: 2px solid red;
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: black;
+    border-bottom: 2px solid red;
+}
